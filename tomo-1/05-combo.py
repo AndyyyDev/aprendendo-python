@@ -1,0 +1,6 @@
+print("Nova York")
+print("São Paulo")
+print("Rio de Janeiro")
+print("Nova Jersey")
+print("São Francisco")
+print("Nova York", "São Paulo", "Rio de Janeiro", "Nova Jersey", "São Francisco")
