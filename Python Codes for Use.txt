@@ -1,0 +1,13 @@
+Comando	O que faz
+pwd	Mostra a pasta atual
+ls	Lista o que tem na pasta atual
+cd nome	Entra na pasta nome
+cd ..	Volta uma pasta
+mkdir nome	Cria pasta nome
+New-Item nome.py	Cria arquivo nome.py
+python nome.py	Roda o arquivo Python
+code .	Abre VS Code na pasta atual
+cls	Limpa a tela
+Ctrl + C	Cancela comando que está rodando
+Tab	Autocompleta nome de arquivo/pasta
+↑ ↓	Navega o histórico de comandos
