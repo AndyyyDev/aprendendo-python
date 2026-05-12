@@ -1,3 +1,3 @@
 # Aprendendo Python
 
-Repositório de exercícios e Trials do guia *Huayyra Aprende a Programar*.
+Repositório de exercícios e guia do Huayyra Aprende a Programar.
