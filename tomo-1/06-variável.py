@@ -52,3 +52,5 @@ classe = "Mago"
 
 print(classe)
 print(classe_anterior)
+
+# Não houve nenhum commit aqui. Ignorar totalmente o aviso de conserto.
